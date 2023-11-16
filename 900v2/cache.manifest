@@ -10,14 +10,6 @@ index.html
 int64.js
 jbc_loader.js
 kexploit.js
-Linux-1gb.js
-Linux-2gb.js
-Linux-3gb.js
-Linux-4gb.js
-LinuxPro-1gb.js
-LinuxPro-2gb.js
-LinuxPro-3gb.js
-LinuxPro-4gb.js
 malloc.js
 netcat.js
 payload.js
